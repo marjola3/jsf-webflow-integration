@@ -4,10 +4,6 @@
       xsi:schemaLocation="http://www.springframework.org/schema/webflow
       http://www.springframework.org/schema/webflow/spring-webflow-2.0.xsd">
 
-    <view-state id="index">
-        <transition on="goToSecond" to="secondPage"/>
-    </view-state>
-
-    <view-state id="secondPage"/>
+    <view-state id="test"/>
 
 </flow>
